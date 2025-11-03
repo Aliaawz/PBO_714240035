@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nural\\source\\repos\\P4_1_714240035\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6452B01-9173-424F-B24D-55355DCB53F6}|P4_1_714240035\\P4_1_714240035.csproj|c:\\users\\nural\\source\\repos\\p4_1_714240035\\p4_1_714240035\\producttest_714240035.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6452B01-9173-424F-B24D-55355DCB53F6}|P4_1_714240035\\P4_1_714240035.csproj|solutionrelative:p4_1_714240035\\producttest_714240035.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6452B01-9173-424F-B24D-55355DCB53F6}|P4_1_714240035\\P4_1_714240035.csproj|C:\\Users\\nural\\source\\repos\\P4_1_714240035\\p4_1_714240035\\book_714240035.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6452B01-9173-424F-B24D-55355DCB53F6}|P4_1_714240035\\P4_1_714240035.csproj|solutionrelative:p4_1_714240035\\book_714240035.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6452B01-9173-424F-B24D-55355DCB53F6}|P4_1_714240035\\P4_1_714240035.csproj|C:\\Users\\nural\\source\\repos\\P4_1_714240035\\p4_1_714240035\\dvd_714240035.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6452B01-9173-424F-B24D-55355DCB53F6}|P4_1_714240035\\P4_1_714240035.csproj|solutionrelative:p4_1_714240035\\dvd_714240035.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6452B01-9173-424F-B24D-55355DCB53F6}|P4_1_714240035\\P4_1_714240035.csproj|C:\\Users\\nural\\source\\repos\\P4_1_714240035\\p4_1_714240035\\product_714240035.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6452B01-9173-424F-B24D-55355DCB53F6}|P4_1_714240035\\P4_1_714240035.csproj|solutionrelative:p4_1_714240035\\product_714240035.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DVD_714240035.cs",
+              "DocumentMoniker": "C:\\Users\\nural\\source\\repos\\P4_1_714240035\\P4_1_714240035\\DVD_714240035.cs",
+              "RelativeDocumentMoniker": "P4_1_714240035\\DVD_714240035.cs",
+              "ToolTip": "C:\\Users\\nural\\source\\repos\\P4_1_714240035\\P4_1_714240035\\DVD_714240035.cs",
+              "RelativeToolTip": "P4_1_714240035\\DVD_714240035.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T08:22:18.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book_714240035.cs",
+              "DocumentMoniker": "C:\\Users\\nural\\source\\repos\\P4_1_714240035\\P4_1_714240035\\Book_714240035.cs",
+              "RelativeDocumentMoniker": "P4_1_714240035\\Book_714240035.cs",
+              "ToolTip": "C:\\Users\\nural\\source\\repos\\P4_1_714240035\\P4_1_714240035\\Book_714240035.cs",
+              "RelativeToolTip": "P4_1_714240035\\Book_714240035.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T07:59:00.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductTest_714240035.cs",
+              "DocumentMoniker": "C:\\Users\\nural\\source\\repos\\P4_1_714240035\\P4_1_714240035\\ProductTest_714240035.cs",
+              "RelativeDocumentMoniker": "P4_1_714240035\\ProductTest_714240035.cs",
+              "ToolTip": "C:\\Users\\nural\\source\\repos\\P4_1_714240035\\P4_1_714240035\\ProductTest_714240035.cs",
+              "RelativeToolTip": "P4_1_714240035\\ProductTest_714240035.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T07:11:10.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product_714240035.cs",
+              "DocumentMoniker": "C:\\Users\\nural\\source\\repos\\P4_1_714240035\\P4_1_714240035\\Product_714240035.cs",
+              "RelativeDocumentMoniker": "P4_1_714240035\\Product_714240035.cs",
+              "ToolTip": "C:\\Users\\nural\\source\\repos\\P4_1_714240035\\P4_1_714240035\\Product_714240035.cs",
+              "RelativeToolTip": "P4_1_714240035\\Product_714240035.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T07:12:04.297Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
