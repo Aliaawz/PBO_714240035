@@ -4,5 +4,4 @@ Dalam konsep OOP, fenomena ini disebut inheritance (pewarisan), yaitu ketika cla
 
 12. Nilai type dan title berhasil muncul karena constructor di class Book_714240035 memanggil constructor milik class induknya menggunakan tambahan kode keyword base(type, title), ini merupakan penerapan konsep inheritance dan constructor chaining dalam OOP.
 
-19. Objek product 2 tidak dibuat seperti product 1 karena constructor pada class DVD sudah mengatur nilai MyType secara langsung di dalamnya, sehingga tidak perlu menerima parameter type. Hal ini menunjukkan konsep constructor overloading dan polymorphism di mana setiap class turunan memiliki constructor yang berbeda sesuai kebutuhannya.
-
+19. Objek product2 tidak dibuat seperti product1 karena class DVD_714240035 memiliki constructor yang berbeda dengan Book_714240035. Pada DVD_714240035, nilai MyType sudah ditetapkan secara langsung di dalam constructor, sehingga tidak perlu dikirim sebagai parameter.
