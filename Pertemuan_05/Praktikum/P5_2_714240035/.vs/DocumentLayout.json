@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nural\\source\\repos\\P5_2_714240035\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2045573C-460E-4A40-B3D4-151CED077877}|P5_2_714240035\\P5_2_714240035.csproj|c:\\users\\nural\\source\\repos\\p5_2_714240035\\p5_2_714240035\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2045573C-460E-4A40-B3D4-151CED077877}|P5_2_714240035\\P5_2_714240035.csproj|solutionrelative:p5_2_714240035\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2045573C-460E-4A40-B3D4-151CED077877}|P5_2_714240035\\P5_2_714240035.csproj|c:\\users\\nural\\source\\repos\\p5_2_714240035\\p5_2_714240035\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2045573C-460E-4A40-B3D4-151CED077877}|P5_2_714240035\\P5_2_714240035.csproj|solutionrelative:p5_2_714240035\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2045573C-460E-4A40-B3D4-151CED077877}|P5_2_714240035\\P5_2_714240035.csproj|c:\\users\\nural\\source\\repos\\p5_2_714240035\\p5_2_714240035\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2045573C-460E-4A40-B3D4-151CED077877}|P5_2_714240035\\P5_2_714240035.csproj|solutionrelative:p5_2_714240035\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2045573C-460E-4A40-B3D4-151CED077877}|P5_2_714240035\\P5_2_714240035.csproj|c:\\users\\nural\\source\\repos\\p5_2_714240035\\p5_2_714240035\\childform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2045573C-460E-4A40-B3D4-151CED077877}|P5_2_714240035\\P5_2_714240035.csproj|solutionrelative:p5_2_714240035\\childform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2045573C-460E-4A40-B3D4-151CED077877}|P5_2_714240035\\P5_2_714240035.csproj|c:\\users\\nural\\source\\repos\\p5_2_714240035\\p5_2_714240035\\childform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2045573C-460E-4A40-B3D4-151CED077877}|P5_2_714240035\\P5_2_714240035.csproj|solutionrelative:p5_2_714240035\\childform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ParentForm.cs",
+              "DocumentMoniker": "C:\\Users\\nural\\source\\repos\\P5_2_714240035\\P5_2_714240035\\ParentForm.cs",
+              "RelativeDocumentMoniker": "P5_2_714240035\\ParentForm.cs",
+              "ToolTip": "C:\\Users\\nural\\source\\repos\\P5_2_714240035\\P5_2_714240035\\ParentForm.cs",
+              "RelativeToolTip": "P5_2_714240035\\ParentForm.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAwwCkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T13:17:00.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nural\\source\\repos\\P5_2_714240035\\P5_2_714240035\\Program.cs",
+              "RelativeDocumentMoniker": "P5_2_714240035\\Program.cs",
+              "ToolTip": "C:\\Users\\nural\\source\\repos\\P5_2_714240035\\P5_2_714240035\\Program.cs",
+              "RelativeToolTip": "P5_2_714240035\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T13:04:56.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ParentForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nural\\source\\repos\\P5_2_714240035\\P5_2_714240035\\ParentForm.cs",
+              "RelativeDocumentMoniker": "P5_2_714240035\\ParentForm.cs",
+              "ToolTip": "C:\\Users\\nural\\source\\repos\\P5_2_714240035\\P5_2_714240035\\ParentForm.cs [Design]",
+              "RelativeToolTip": "P5_2_714240035\\ParentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T13:06:52.004Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChildForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nural\\source\\repos\\P5_2_714240035\\P5_2_714240035\\ChildForm.cs",
+              "RelativeDocumentMoniker": "P5_2_714240035\\ChildForm.cs",
+              "ToolTip": "C:\\Users\\nural\\source\\repos\\P5_2_714240035\\P5_2_714240035\\ChildForm.cs [Design]",
+              "RelativeToolTip": "P5_2_714240035\\ChildForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T13:21:14.407Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChildForm.cs",
+              "DocumentMoniker": "C:\\Users\\nural\\source\\repos\\P5_2_714240035\\P5_2_714240035\\ChildForm.cs",
+              "RelativeDocumentMoniker": "P5_2_714240035\\ChildForm.cs",
+              "ToolTip": "C:\\Users\\nural\\source\\repos\\P5_2_714240035\\P5_2_714240035\\ChildForm.cs",
+              "RelativeToolTip": "P5_2_714240035\\ChildForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T13:42:20.052Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
