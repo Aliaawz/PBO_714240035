@@ -1,0 +1,10 @@
+C:\Users\nural\source\repos\P12_714240035\P9_714240035\obj\Debug\P9_714240035.csproj.AssemblyReference.cache
+C:\Users\nural\source\repos\P12_714240035\P9_714240035\obj\Debug\P9_714240047.exe.config
+C:\Users\nural\source\repos\P12_714240035\P9_714240035\obj\Debug\P9_714240035.Form1.resources
+C:\Users\nural\source\repos\P12_714240035\P9_714240035\obj\Debug\P9_714240047.Properties.Resources.resources
+C:\Users\nural\source\repos\P12_714240035\P9_714240035\obj\Debug\P9_714240035.FormNilai.resources
+C:\Users\nural\source\repos\P12_714240035\P9_714240035\obj\Debug\P9_714240035.view.FormTransaksi.resources
+C:\Users\nural\source\repos\P12_714240035\P9_714240035\obj\Debug\P9_714240035.view.ParentForm.resources
+C:\Users\nural\source\repos\P12_714240035\P9_714240035\obj\Debug\P9_714240035.view.StartUp.resources
+C:\Users\nural\source\repos\P12_714240035\P9_714240035\obj\Debug\P9_714240035.csproj.GenerateResource.cache
+C:\Users\nural\source\repos\P12_714240035\P9_714240035\obj\Debug\P9_714240035.csproj.CoreCompileInputs.cache
