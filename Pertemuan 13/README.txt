@@ -1,0 +1,1 @@
+pak maaf, untuk file praktikum belom bisa di upload karena jaringan jadi error

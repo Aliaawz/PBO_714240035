@@ -1,0 +1,8 @@
+14. Error dengan deskripsi : ('ProductTest_714240035' does not contain a definition for 'myType' and no accessible extension method 'myType' accepting a first argument of type 'ProductTest_714240035' could be found) terjadi karena :
+
+-myType hanya ada dikelas Product_714240035 dan pada panduan praktikum objek tsb dibuat dikelas lain sehingga myProduct tidak punya akses ke myType.
+
+19. Hasil dari kode setelah diubah adalah kosong karna pada kode praktikum variable myType tidak diberi nilau dimanapun.
+
+24. Karna pada kode yang ditambahkan yaitu myProduct.MyType = "DVD";
+    pada kode diatas telah diberikan nilai kedalam variable myType, jadi setelah set dijalankan field myType sudah berisi      "DVD", dan ketika get dipanggil melalui Console.WriteLine nilai "DVD" ditampilkan dan tidak kosong lagi seperti kode       sebelumnya

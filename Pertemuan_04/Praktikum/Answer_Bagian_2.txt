@@ -1,0 +1,7 @@
+8. Tipe dan title tidak muncul karena konstruktor pada class turunan Book_714240035 tidak memanggil konstruktor milik class induk Product_714240035, akibatnya properti MyType dan MyTitle di class induk tidak pernah diinisialisasi nilainya.
+
+Dalam konsep OOP, fenomena ini disebut inheritance (pewarisan), yaitu ketika class turunan mewarisi atribut dan metode dari class induk.Namun agar atribut milik induk terisi dengan benar, constructor di class turunan harus memanggil constructor induk menggunakan keyword base
+
+12. Nilai type dan title berhasil muncul karena constructor di class Book_714240035 memanggil constructor milik class induknya menggunakan tambahan kode keyword base(type, title), ini merupakan penerapan konsep inheritance dan constructor chaining dalam OOP.
+
+19. Objek product2 tidak dibuat seperti product1 karena class DVD_714240035 memiliki constructor yang berbeda dengan Book_714240035. Pada DVD_714240035, nilai MyType sudah ditetapkan secara langsung di dalam constructor, sehingga tidak perlu dikirim sebagai parameter.

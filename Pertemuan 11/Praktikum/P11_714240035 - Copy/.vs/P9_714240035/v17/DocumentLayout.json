@@ -1,0 +1,404 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nural\\source\\repos\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{397765E3-4414-4187-8780-E8746223027D}|P9_714240035\\P9_714240035.csproj|c:\\users\\nural\\source\\repos\\pertemuan 11\\praktikum\\p11_714240035 - copy\\p9_714240035\\controller\\koneksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397765E3-4414-4187-8780-E8746223027D}|P9_714240035\\P9_714240035.csproj|solutionrelative:p9_714240035\\controller\\koneksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nural\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\view\\FormTransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nural\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\controller\\Nilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nural\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\p9_714240047\\view\\formtransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nural\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\controller\\Transaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nural\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\view\\ParentForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nural\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\p9_714240047\\view\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nural\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\view\\ParentForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nural\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\view\\FormMasterBarang.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nural\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\view\\FormMasterBarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nural\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\p9_714240047\\view\\formmasterbarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nural\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\view\\FormTransaksi.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nural\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\p9_714240047\\view\\formnilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nural\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\controller\\Barang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nural\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\model\\M_barang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nural\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\p9_714240047\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nural\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\model\\M_transaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nural\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\view\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nural\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\controller\\Koneksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nural\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\controller\\Mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nural\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nural\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\view\\FormNilai.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nural\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\view\\FormNilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nural\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\model\\M_nilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nural\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\model\\M_mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nural\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\view\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Nilai.cs",
+              "DocumentMoniker": "C:\\Users\\nural\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\controller\\Nilai.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\controller\\Nilai.cs",
+              "ToolTip": "C:\\Users\\nural\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\controller\\Nilai.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\controller\\Nilai.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAIwGIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T06:49:48.009Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Koneksi.cs",
+              "DocumentMoniker": "C:\\Users\\nural\\source\\repos\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240035\\controller\\Koneksi.cs",
+              "RelativeDocumentMoniker": "P9_714240035\\controller\\Koneksi.cs",
+              "ToolTip": "C:\\Users\\nural\\source\\repos\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240035\\controller\\Koneksi.cs",
+              "RelativeToolTip": "P9_714240035\\controller\\Koneksi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T17:28:46.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormTransaksi.cs",
+              "DocumentMoniker": "C:\\Users\\nural\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\view\\FormTransaksi.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\view\\FormTransaksi.cs",
+              "ToolTip": "C:\\Users\\nural\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\view\\FormTransaksi.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\view\\FormTransaksi.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T14:42:47.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormTransaksi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nural\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\view\\FormTransaksi.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\view\\FormTransaksi.cs",
+              "ToolTip": "D:\\pemograman\\P11_714240047 - Copy\\P9_714240047\\view\\FormTransaksi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T14:32:32.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Transaksi.cs",
+              "DocumentMoniker": "C:\\Users\\nural\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\controller\\Transaksi.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\controller\\Transaksi.cs",
+              "ToolTip": "C:\\Users\\nural\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\controller\\Transaksi.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\controller\\Transaksi.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAcwJIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T14:16:44.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ParentForm.cs",
+              "DocumentMoniker": "C:\\Users\\nural\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\view\\ParentForm.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\view\\ParentForm.cs",
+              "ToolTip": "C:\\Users\\nural\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\view\\ParentForm.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\view\\ParentForm.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T06:52:33.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ParentForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nural\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\view\\ParentForm.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\view\\ParentForm.cs",
+              "ToolTip": "D:\\pemograman\\P11_714240047 - Copy\\P9_714240047\\view\\ParentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T06:52:03.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ParentForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\nural\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\view\\ParentForm.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\view\\ParentForm.Designer.cs",
+              "ToolTip": "C:\\Users\\nural\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\view\\ParentForm.Designer.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\view\\ParentForm.Designer.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAtwEoAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T07:36:24.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormMasterBarang.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\nural\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\view\\FormMasterBarang.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\view\\FormMasterBarang.Designer.cs",
+              "ToolTip": "C:\\Users\\nural\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\view\\FormMasterBarang.Designer.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\view\\FormMasterBarang.Designer.cs",
+              "ViewState": "AgIAAM4AAAAAAAAAAAAowN8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T15:34:23.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormMasterBarang.cs",
+              "DocumentMoniker": "C:\\Users\\nural\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\view\\FormMasterBarang.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\view\\FormMasterBarang.cs",
+              "ToolTip": "C:\\Users\\nural\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\view\\FormMasterBarang.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\view\\FormMasterBarang.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T15:34:34.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormMasterBarang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nural\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\view\\FormMasterBarang.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\view\\FormMasterBarang.cs",
+              "ToolTip": "D:\\pemograman\\P11_714240047 - Copy\\P9_714240047\\view\\FormMasterBarang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T15:34:20.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormTransaksi.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\nural\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\view\\FormTransaksi.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\view\\FormTransaksi.Designer.cs",
+              "ToolTip": "C:\\Users\\nural\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\view\\FormTransaksi.Designer.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\view\\FormTransaksi.Designer.cs",
+              "ViewState": "AgIAAE0BAAAAAAAAAAAowFcBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T14:40:06.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormNilai.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nural\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\view\\FormNilai.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\view\\FormNilai.cs",
+              "ToolTip": "D:\\pemograman\\P11_714240047 - Copy\\P9_714240047\\view\\FormNilai.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T07:07:38.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Barang.cs",
+              "DocumentMoniker": "C:\\Users\\nural\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\controller\\Barang.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\controller\\Barang.cs",
+              "ToolTip": "C:\\Users\\nural\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\controller\\Barang.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\controller\\Barang.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAcwHEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T14:58:49.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "M_barang.cs",
+              "DocumentMoniker": "C:\\Users\\nural\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\model\\M_barang.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\model\\M_barang.cs",
+              "ToolTip": "C:\\Users\\nural\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\model\\M_barang.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\model\\M_barang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T14:58:28.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nural\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\view\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\view\\Form1.cs",
+              "ToolTip": "D:\\pemograman\\P11_714240047 - Copy\\P9_714240047\\view\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T06:49:15.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "M_transaksi.cs",
+              "DocumentMoniker": "C:\\Users\\nural\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\model\\M_transaksi.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\model\\M_transaksi.cs",
+              "ToolTip": "C:\\Users\\nural\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\model\\M_transaksi.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\model\\M_transaksi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T14:16:25.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\nural\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\view\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\view\\Form1.cs",
+              "ToolTip": "C:\\Users\\nural\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\view\\Form1.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\view\\Form1.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAADwv40AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T06:52:11.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Koneksi.cs",
+              "DocumentMoniker": "C:\\Users\\nural\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\controller\\Koneksi.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\controller\\Koneksi.cs",
+              "ToolTip": "C:\\Users\\nural\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\controller\\Koneksi.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\controller\\Koneksi.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAoAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T06:51:29.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Mahasiswa.cs",
+              "DocumentMoniker": "C:\\Users\\nural\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\controller\\Mahasiswa.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\controller\\Mahasiswa.cs",
+              "ToolTip": "C:\\Users\\nural\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\controller\\Mahasiswa.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\controller\\Mahasiswa.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAkwFEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T06:48:27.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nural\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\Program.cs",
+              "ToolTip": "C:\\Users\\nural\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAcwBAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T07:35:18.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FormNilai.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\nural\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\view\\FormNilai.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\view\\FormNilai.Designer.cs",
+              "ToolTip": "C:\\Users\\nural\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\view\\FormNilai.Designer.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\view\\FormNilai.Designer.cs",
+              "ViewState": "AgIAACoBAAAAAAAAAAAIwDYBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T07:09:46.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FormNilai.cs",
+              "DocumentMoniker": "C:\\Users\\nural\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\view\\FormNilai.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\view\\FormNilai.cs",
+              "ToolTip": "C:\\Users\\nural\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\view\\FormNilai.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\view\\FormNilai.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAWwLYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T07:07:40.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "M_nilai.cs",
+              "DocumentMoniker": "C:\\Users\\nural\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\model\\M_nilai.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\model\\M_nilai.cs",
+              "ToolTip": "C:\\Users\\nural\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\model\\M_nilai.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\model\\M_nilai.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T06:49:26.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "M_mahasiswa.cs",
+              "DocumentMoniker": "C:\\Users\\nural\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\model\\M_mahasiswa.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\model\\M_mahasiswa.cs",
+              "ToolTip": "C:\\Users\\nural\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\model\\M_mahasiswa.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\model\\M_mahasiswa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T06:42:01.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\nural\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\view\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\view\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\nural\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\view\\Form1.Designer.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\PBO-main (71)\\PBO-main\\Pertemuan 11\\Praktikum\\P11_714240035 - Copy\\P9_714240047\\view\\Form1.Designer.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAawEsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-08T06:52:50.137Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
